@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.18/481f5bfed3ae29f656eedfe9e98c8365b8ba5c57/lombok-1.18.18.jar" />
+        </processorPath>
+        <module name="fastcampus-spring-cloud.fastcam-resilience4j-server.main" />
+        <module name="fastcampus-spring-cloud.fastcam-spring-sleuth.main" />
+        <module name="fastcampus-spring-cloud.fastcam-spring-eureka.main" />
+        <module name="fastcampus-spring-cloud.fastcam-spring-rabbitmq.main" />
+        <module name="fastcampus-spring-cloud.fastcam-photoapp.main" />
+        <module name="fastcampus-spring-cloud.fastcam-resilience4j.main" />
+        <module name="fastcampus-spring-cloud.fastcam-spring-apigw.main" />
+        <module name="fastcampus-spring-cloud.fastcam-spring-config-consumer.main" />
+        <module name="fastcampus-spring-cloud.fastcam-feignclient.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fastcampus-spring-cloud.fastcam-feignclient" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-feignclient.main" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-feignclient.test" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-photoapp" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-photoapp.main" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-photoapp.test" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-resilience4j" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-resilience4j-server" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-resilience4j-server.main" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-resilience4j-server.test" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-resilience4j.main" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-resilience4j.test" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-admin" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-admin.main" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-admin.test" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-apigw" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-apigw.main" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-apigw.test" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-config" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-config-consumer" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-config-consumer.main" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-config-consumer.test" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-config.main" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-config.test" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-eureka" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-eureka.main" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-eureka.test" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-kafka" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-kafka.main" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-kafka.test" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-rabbitmq" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-rabbitmq.main" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-rabbitmq.test" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-sleuth" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-sleuth.main" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-sleuth.test" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-utils" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-utils.main" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-utils.test" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-vault" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-vault.main" target="11" />
+      <module name="fastcampus-spring-cloud.fastcam-spring-vault.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
