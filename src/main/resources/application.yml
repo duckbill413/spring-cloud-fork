@@ -9,4 +9,4 @@ spring:
         multipart.enabled: true
 
 photoapp.file:
-    defaultPath: c:\up-dir
+    defaultPath: d:\up-dir

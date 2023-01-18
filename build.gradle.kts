@@ -22,13 +22,14 @@ repositories {
 }
 
 dependencies {
+	implementation("org.springframework.cloud:spring-cloud-starter-gateway")
 	implementation("org.springframework.boot:spring-boot-starter-web")
 	implementation("com.fasterxml.jackson.module:jackson-module-kotlin")
 	implementation("org.jetbrains.kotlin:kotlin-reflect")
 	implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
-	implementation("commons-fileupload:commons-fileupload:1.4")
-	implementation("io.springfox:springfox-swagger2:2.9.2")
-	implementation("io.springfox:springfox-swagger-ui:2.9.2")
+	implementation("commons-fileupload:commons-fileupload:1.4") // FEAT: 파일 업로드 denpendency
+	implementation("io.springfox:springfox-swagger2:3.0.0")
+	implementation("io.springfox:springfox-swagger-ui:3.0.0")
 
 
 	compileOnly("org.projectlombok:lombok")
